@@ -1,0 +1,13 @@
+streamlit
+sentence-transformers
+faiss-cpu
+lightgbm
+scikit-learn
+pandas
+numpy
+joblib
+lxml
+python-Levenshtein
+tqdm
+python-dateutil
+regex
